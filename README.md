@@ -1,2 +1,2 @@
-# homebrew-sketches-cmd
-Brew enabled, command-line application for sketches-core
+# homebrew-sketches
+Homebrew tap to hold recipes for datasketches.
